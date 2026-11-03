@@ -1,4 +1,4 @@
-##DIAGRAMES##
+**DIAGRAMES**
 
 **Diagrama de seqüència flux principal (Happy Path):**
 <img width="1535" height="1024" alt="91f8e3ac-e81f-4835-b30b-18390625044c" src="https://github.com/user-attachments/assets/bd7ef564-865b-42eb-910c-60358b8a61d7" />
